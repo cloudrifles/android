@@ -1,0 +1,4 @@
+app/.ab/*
+app/*.ipa
+app.*.apk
+app.*.xap
